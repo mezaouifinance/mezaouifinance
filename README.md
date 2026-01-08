@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 About
+Applied mathematics student focusing on quantitative finance.
+Interested in derivatives pricing, fixed income and risk modeling.
 
-<!--
-**mezaouifinance/mezaouifinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Core skills
+- Python (NumPy, Pandas, SciPy)
+- Quantitative finance (options, yield curves, risk)
+- Numerical methods & stochastic models
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Selected projects
+- Options Pricing Toolkit (Binomial & Black-Scholes)
+- Yield Curve Construction & Bond Pricing
+- Risk Metrics & Backtesting (VaR, ES)
