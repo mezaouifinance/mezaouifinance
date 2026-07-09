@@ -1,6 +1,6 @@
 ## Mehdi Zaoui
 
-Alternant en trade surveillance, je me spécialise en **risque de marché** — de la valorisation d'options à la mesure du risque de portefeuille.
+Alternant en trade surveillance et étudiant en Ingénierie du risque, je me spécialise en **risque de marché** : de la valorisation d'options à la mesure du risque de portefeuille.
 
 Mes projets sont construits depuis zéro, sans librairies de pricing tierces, pour comprendre les mécaniques sous-jacentes plutôt que d'utiliser des boîtes noires.
 
